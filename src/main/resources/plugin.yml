@@ -1,0 +1,24 @@
+name: AnahtarPlugin
+version: '1.0.0'
+main: com.ornek.anahtar.AnahtarPlugin
+api-version: '1.21'
+author: Ornek
+description: Hicbir craft tarifinde kullanilamayan, kirilmaz ve ates/lav/patlamadan etkilenmeyen, sadece gorunumden ibaret ozel anahtar esyalari. Kendi texture'lariyla birlikte, ayri resourcepack kurulumu gerektirmez.
+
+commands:
+  anahtar:
+    description: Anahtar esyalarini yonetir
+    usage: /anahtar <ver|liste|reload>
+    permission: anahtar.kullan
+    permission-message: Bu komutu kullanma yetkin yok.
+
+permissions:
+  anahtar.kullan:
+    description: /anahtar komutunu kullanabilir (liste icin)
+    default: true
+  anahtar.ver:
+    description: Anahtar esyasi verebilir
+    default: op
+  anahtar.reload:
+    description: Anahtar config ve resourcepack'i yeniden yukleyebilir
+    default: op
