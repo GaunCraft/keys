@@ -1,0 +1,128 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/saddle"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 2001
+      },
+      "model": "item/anahtar/anahtar_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2002
+      },
+      "model": "item/anahtar/anahtar_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2003
+      },
+      "model": "item/anahtar/anahtar_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2004
+      },
+      "model": "item/anahtar/anahtar_04"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2005
+      },
+      "model": "item/anahtar/anahtar_05"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2006
+      },
+      "model": "item/anahtar/anahtar_06"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2007
+      },
+      "model": "item/anahtar/anahtar_07"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2008
+      },
+      "model": "item/anahtar/anahtar_08"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2009
+      },
+      "model": "item/anahtar/anahtar_09"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2010
+      },
+      "model": "item/anahtar/anahtar_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2011
+      },
+      "model": "item/anahtar/anahtar_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2012
+      },
+      "model": "item/anahtar/anahtar_12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013
+      },
+      "model": "item/anahtar/anahtar_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2014
+      },
+      "model": "item/anahtar/anahtar_14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2015
+      },
+      "model": "item/anahtar/anahtar_15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2016
+      },
+      "model": "item/anahtar/anahtar_16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2017
+      },
+      "model": "item/anahtar/anahtar_17"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2018
+      },
+      "model": "item/anahtar/anahtar_18"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2019
+      },
+      "model": "item/anahtar/anahtar_19"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2020
+      },
+      "model": "item/anahtar/anahtar_20"
+    }
+  ]
+}
